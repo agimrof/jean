@@ -10,9 +10,9 @@
 	   require 'connection.php';
 	   require 'database.php';	  
 
-	   $query = "INSERT INTO clientes ( nome ) VALUES ( 'Caio' )";
+	   $query = "INSERT INTO clientes (nome) VALUES ('Caio')";
 	   echo $query;
-	   //var_dump(DBExecute($query));	   
+	   var_dump(DBExecute($query));	   
 		   
 	?>
   </body>
