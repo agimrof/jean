@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <title>Estudo</title>
-    <meta charset="utf-8">
+    <meta charset="latin1">
   </head>
   <body>
 	<?php
