@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <title>Estudo</title>
-    <meta charset="latin1">
+    <meta charset="utf-8">
   </head>
   <body>
 	<?php
@@ -12,7 +12,7 @@
 
 	   $query = "INSERT INTO clientes ( nome ) VALUES ( 'Caio' )";
 	   echo $query;
-	   var_dump(DBExecute($query));	   
+	   //var_dump(DBExecute($query));	   
 		   
 	?>
   </body>
