@@ -4,5 +4,5 @@
 	define('DB_USERNAME', 'jean');
 	define('DB_PASSWORD', 'jean');
 	define('DB_DATABASE', 'bancoteste');
-	define('DB_CHARSERT', 'utf8');
+	define('DB_CHARSERT', 'latin1');
 ?>
